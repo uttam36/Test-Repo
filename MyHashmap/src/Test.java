@@ -12,7 +12,7 @@ public class Test
         hm.pulElement("sid",2);
         hm.pulElement("mohib",3);
 
-        
+        System.out.println(hm.getElement("uttam"));
     }
 
 }
